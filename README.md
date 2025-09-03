@@ -40,12 +40,3 @@ This sequence diagram outlines the core workflow within the MCP Server, mapping 
 
 ---
 
-## 📚 References & Further Reading
-
-- [C4 Model Documentation](https://c4model.com/)
-- [JIRA MCP Server App Wiki](link-to-your-wiki-if-any)
-- [Architecture Decision Records](link-to-your-adr-if-any)
-
----
-
-> For questions or contributions, please open an issue or contact the repository maintainers.
